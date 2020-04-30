@@ -7,11 +7,11 @@ using System.Xml.Serialization;
 using System.IO;
 using DO;
 using DalApi;
-//using Dal;
 using System.Reflection;
 
 namespace Dal
 {
+    // this class bla bla bla
     sealed class DalXml : IDal
     {
         PersonHandler personHandler = new PersonHandler();
